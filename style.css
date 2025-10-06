@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+}
+
+#canvas-container {
+  width: 100vw;
+  height: 80vh;
+}
